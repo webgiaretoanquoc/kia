@@ -1,0 +1,56 @@
+﻿@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLJQp_A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/chakrapetch/v9/cIfkMapbsEk7TDLdtEz1BwkWmqpl.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ5_A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpK9RJ_A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeNIhFQA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/chakrapetch/v9/cIf6MapbsEk7TDLdtEz1BwkmmA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkebIlFQA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeQI5FQA.ttf) format('truetype');
+}
